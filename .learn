@@ -4,3 +4,4 @@ languages:
   - a language
 resources: 
   - 0
+parent_template: git@github.com:learn-co-curriculum/js-dom-and-events-intro-to-the-dom-readme.git

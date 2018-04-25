@@ -130,3 +130,4 @@ Next, we'll take a deeper look at how to select elements!
 
 - [CSS Tricks - What is the DOM?](https://css-tricks.com/dom/)
 - [MDN - The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+<p data-visibility='hidden'>PHRG Introduction to the DOM</p>
