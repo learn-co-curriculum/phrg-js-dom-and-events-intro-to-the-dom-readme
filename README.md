@@ -126,6 +126,9 @@ We learned a lot in this section. This is what we learned.
 
 Next, we'll take a deeper look at how to select elements!
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-intro-to-the-dom-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-intro-to-the-dom-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 - [CSS Tricks - What is the DOM?](https://css-tricks.com/dom/)
